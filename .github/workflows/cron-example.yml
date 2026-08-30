@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Good night, team!"    
-greet5:
+  greet5:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Good night, team!"    
+      - run: echo "happy night, team!"    
