@@ -1,6 +1,6 @@
 # https://crontab.io/
 
-name: Manual Release
+name: workflow Manual Release
 on:
   workflow_dispatch:
     inputs:
